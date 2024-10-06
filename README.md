@@ -27,7 +27,7 @@
  <a><h2>Projects ⚡</h2></a>
 
  # [Cards](https://github.com/mactyagi/Cards) 
-<p align="left"> <a href="https://github.com/mactyagi/Cards"> <img src="https://github.com/user-attachments/assets/fe4eebe6-a5f9-4a44-8de4-20e4d1b9ac9f" width="150" ></a>
+<p align="left"> <a href="https://github.com/mactyagi/Cards"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 The Cards app enables users to design personalised cards by incorporating photos, shapes, stickers, and text. It also supports copying and pasting images directly from Safari, providing more flexibility in card creation. Users can share their completed cards easily with others.
@@ -43,7 +43,7 @@ The Cards app enables users to design personalised cards by incorporating photos
 
  # [HitFit](https://github.com/mactyagi/HITFit)
  
-<p align="left"> <a href="https://github.com/mactyagi/HITFit"> <img src="https://github.com/user-attachments/assets/fe4eebe6-a5f9-4a44-8de4-20e4d1b9ac9f" width="150" ></a>
+<p align="left"> <a href="https://github.com/mactyagi/HITFit"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 HITFIT is an exercise tracking app developed in SwiftUI, designed to help users manage their workout sessions efficiently. Users can perform exercises with a built-in timer and track their progress over time. The app displays the exercise history in an intuitive graphical format, allowing users to visualize their past workouts. Additionally, HITFIT provides a dedicated graph showing users’ exercise performance over the last 7 days, helping them stay on top of their fitness goals.
@@ -95,9 +95,8 @@ As the sole engineer, I successfully developed a Space Cleaner, a full-fledged a
 * Third Party Integration
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/f78994eb-0f62-41d2-802c-53f6d7bbf649" width="930" title="2-Way">
+<img src="https://github.com/user-attachments/assets/2408de60-366d-4c6a-a0fb-2f37bed5e976" width="930" title="2-Way">
 </p>
-
 
 # [Vape Free](https://apps.apple.com/in/app/vaping-free/id6504159863) 
 <p align="left"> <a href="https://apps.apple.com/in/app/vaping-free/id6504159863" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
@@ -119,8 +118,8 @@ I contributed to the project by working on the app’s architecture, focusing on
 * Health and Wellness
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/57159193-08bd-4885-8361-2ec7abca49da" width="930" title="Vape Free">
-<img src="https://github.com/user-attachments/assets/4390ecd3-6839-4e10-8342-7598078fe12b" width="930" title="Vape Free">
+<img src="https://github.com/user-attachments/assets/04c7cbb5-f39d-4d75-b324-1d669bf88139" width="930" title="Vape Free">
+<img src="https://github.com/user-attachments/assets/ed5e2c5e-fd82-4d32-88bd-10656ddbe49d" width="930" title="Vape Free">
 </p>
 
 
@@ -146,7 +145,7 @@ I contributed to the project by working on the app’s architecture, focusing on
 * Push Notification
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/e9b07129-8c3a-41e8-871f-03ecca4c6e18" width="930" title="Habit tracker">
+<img src="https://github.com/user-attachments/assets/8db22758-3e9c-4f03-9672-43346627e03c" width="930" title="Habit tracker">
 </p>
 
 # [Fast Site Survey](https://apps.apple.com/jm/app/fast-site-survey/id1510691027) 
@@ -166,7 +165,7 @@ This app is a cutting-edge mobile application designed to streamline and expedit
 * Push Notification
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/91ad2f5b-c89a-4ab6-9e2a-3334d6ff3053" width="930" title="Fast Site Survey">
+<img src="https://github.com/user-attachments/assets/0c815ffa-7d73-4da2-97b3-46a41ce162a5" width="930" title="Fast Site Survey">
 </p>
 
 
@@ -186,11 +185,11 @@ This app is a cutting-edge mobile application designed to streamline and expedit
 * Push Notification
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/d8b37dab-2d98-4456-8738-175820227dfb" width="930" title="NZChat">
+<img src="https://github.com/user-attachments/assets/53386a27-16ce-4655-a7af-09259db91b7b" width="930" title="NZChat">
 </p>
 
 # [snap Filter](https://github.com/mactyagi/snapFilter) 
-<p align="left"> <a href="https://github.com/mactyagi/snapFilter"> <img src="https://github.com/user-attachments/assets/fe4eebe6-a5f9-4a44-8de4-20e4d1b9ac9f" width="150" ></a>
+<p align="left"> <a href="https://github.com/mactyagi/snapFilter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 I’ve created a unique Snapchat filter that works exclusively on the real-time camera. This filter enhances live interactions by applying effects during live camera use, offering an immersive, real-time experience.
