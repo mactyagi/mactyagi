@@ -197,3 +197,10 @@ I’ve created a unique Snapchat filter that works exclusively on the real-time 
 * ARKit
 * Face Tracking
 * SceneKit
+
+
+## Thanks for stopping by!
+
+# Contact Info:
+
+- Email: mactyagi@icloud.com
