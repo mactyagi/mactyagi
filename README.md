@@ -26,6 +26,25 @@
 
  <a><h2>Projects ⚡</h2></a>
 
+ # [StepBloc](https://apps.apple.com/in/app/stepbloc-block-limit-apps/id6480580480)
+ <p align="left"> <a href="https://apps.apple.com/in/app/stepbloc-block-limit-apps/id6480580480" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
+</p>
+
+StepBloc helps you stay active by requiring you to complete exercises like push-ups, squats, or steps to unlock distracting apps. Control screen time, boost focus, and promote healthy habits!
+
+### Tech Stack
+- Swift
+- SwiftUI
+- HealthKit
+- ScreenTime API
+- Push Notifications
+  
+### App Preview
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8066ee8e-43ee-40bb-9a65-35b7746aef1c" width="930" title="StepBloc">
+</p>
+
  # [Cards](https://github.com/mactyagi/Cards) 
 <p align="left"> <a href="https://github.com/mactyagi/Cards"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
