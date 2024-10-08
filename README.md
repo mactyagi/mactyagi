@@ -58,11 +58,8 @@ The Cards app enables users to design personalised cards by incorporating photos
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1ead5aed-9294-41c1-b8b6-5b815b59c998" width="930" title="Cards">
-<img src="https://github.com/user-attachments/assets/e1dd6377-7b33-40b4-8a66-72207daf5d73" width="930" title="Cards">
+<img src="https://github.com/user-attachments/assets/86c27914-5232-48c7-9ba0-ade9df83795f" width="930" title="Cards">
 </p>
-
-
-
 
 
  # [HitFit](https://github.com/mactyagi/HITFit)
