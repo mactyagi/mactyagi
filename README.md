@@ -39,6 +39,7 @@ The Cards app enables users to design personalised cards by incorporating photos
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/230f1aab-d39c-40b1-b820-68f741819fb6" width="930" title="Cards">
+  <img src="https://github.com/user-attachments/assets/e1dd6377-7b33-40b4-8a66-72207daf5d73" width="930" title="Cards">
 </p>
 
  # [HitFit](https://github.com/mactyagi/HITFit)
@@ -74,8 +75,8 @@ As the sole engineer, I successfully developed a Space Cleaner, a full-fledged a
 * Scratch to App Store
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/b1c4c2f0-dca7-4712-a882-58e7eeb4e843" width="930" title="Cleaner">
-<img src="https://github.com/user-attachments/assets/251826a4-61ef-4446-81fe-6897951f5725" width="930" title="Cleaner">
+<img src="https://github.com/user-attachments/assets/cdced97f-4ff0-40e5-8d16-6e3b0c543d98" width="930" title="Cleaner">
+<img src="https://github.com/user-attachments/assets/c575bcb9-314b-46e0-894c-5003954c5eee" width="930" title="Cleaner">
 </p>
 
 
