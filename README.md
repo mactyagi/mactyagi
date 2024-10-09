@@ -77,6 +77,23 @@ HITFIT is an exercise tracking app developed in SwiftUI, designed to help users 
  <img src="https://github.com/user-attachments/assets/d6db6c66-904c-4ff3-b349-a1bd1e1c48d7" width="930" title="HitFit">
 </p>
 
+# [Smart Remote Control](https://apps.apple.com/in/app/smart-remote-control-tv-cast/id1590869816) 
+<p align="left"> <a href="https://apps.apple.com/in/app/smart-remote-control-tv-cast/id1590869816" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
+</p>
+
+Smart Remote Control is an all-in-one iOS app that allows you to effortlessly control your TV. The app lets you navigate, play, pause, adjust volume, and launch apps directly from your iPhone or iPad. Featuring an intuitive interface and easy device discovery, Smart Remote Control brings the convenience of controlling your entertainment system into one unified experience. Stay in charge of your smart TVs with just a tap!
+
+* UIKit and SwiftUI both
+* Restful API
+* Combine
+* Firebase
+* Socket.IO
+
+<p align = "center">
+<img src="https://github.com/user-attachments/assets/f0b649e9-6218-4742-9b58-89213b80c63b" width="930" title="Draw Kid">
+</p>
+
+
   # [Space Cleaner](https://apps.apple.com/in/app/space-cleaner-all-in-one/id6478117627) 
 <p align="left"> <a href="https://apps.apple.com/in/app/space-cleaner-all-in-one/id6478117627" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
 </p>
@@ -114,8 +131,8 @@ Draw Kid is a playful drawing app tailored for children, offering a simple and i
 * StoreKit
 
 <p align = "center">
-<img src="https://github.com/user-attachments/assets/78097bfe-0f9d-406b-9514-1c3fbc08b399" width="930" title="Cleaner">
-<img src="https://github.com/user-attachments/assets/600309d2-4257-469a-a9e3-0dbfd7dd8b6f" width="930" title="Cleaner">
+<img src="https://github.com/user-attachments/assets/78097bfe-0f9d-406b-9514-1c3fbc08b399" width="930" title="Draw Kid">
+<img src="https://github.com/user-attachments/assets/600309d2-4257-469a-a9e3-0dbfd7dd8b6f" width="930" title="Draw Kid">
 </p>
 
 
