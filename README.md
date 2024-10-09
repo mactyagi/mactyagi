@@ -99,6 +99,25 @@ As the sole engineer, I successfully developed a Space Cleaner, a full-fledged a
 <img src="https://github.com/user-attachments/assets/c575bcb9-314b-46e0-894c-5003954c5eee" width="930" title="Cleaner">
 </p>
 
+ # [Draw Kid](https://apps.apple.com/in/app/draw-kid-drawing-painting/id995619122) 
+<p align="left"> <a href="https://apps.apple.com/in/app/draw-kid-drawing-painting/id995619122" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
+</p>
+
+Draw Kid is a playful drawing app tailored for children, offering a simple and intuitive platform for creative expression. It features a variety of pencils for sketching, drawing, and doodling. Kids can select from different pencil sizes and colors to create their artwork.
+
+* UIKit
+* MVVM
+* Combine
+* PencilKit
+* CoreGraphics
+* CoreData
+* StoreKit
+
+<p align = "center">
+<img src="https://github.com/user-attachments/assets/78097bfe-0f9d-406b-9514-1c3fbc08b399" width="930" title="Cleaner">
+<img src="https://github.com/user-attachments/assets/600309d2-4257-469a-a9e3-0dbfd7dd8b6f" width="930" title="Cleaner">
+</p>
+
 
 # [2-Way](https://apps.apple.com/in/app/2way/id862974671) 
 <p align="left"> <a href="https://apps.apple.com/in/app/2way/id862974671" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
