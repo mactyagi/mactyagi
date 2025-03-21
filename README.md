@@ -7,9 +7,9 @@
   <h3 align="center">A passionate iOS developer from India</h3>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-- 🧑‍💻 I’m working At:- **Upwork**
+- 🧑‍💻 I’m working At:- **Razorpay**
 
-- 🚀 I’m currently learning:- **ARKit,Core ML,Combine, RealityKit**
+- 🚀 I’m currently learning:- **SDK Developement, UPI payments**
 
 - 💬 Ask me about:- **Swift, UIKit and SwiftUI**
 
@@ -26,24 +26,7 @@
 
  <a><h2>Projects ⚡</h2></a>
 
- # [StepBloc](https://apps.apple.com/in/app/stepbloc-block-limit-apps/id6480580480)
- <p align="left"> <a href="https://apps.apple.com/in/app/stepbloc-block-limit-apps/id6480580480" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
-</p>
-
-StepBloc helps you stay active by requiring you to complete exercises like push-ups, squats, or steps to unlock distracting apps. Control screen time, boost focus, and promote healthy habits!
-
-### Tech Stack
-- Swift
-- SwiftUI
-- HealthKit
-- ScreenTime API
-- Push Notifications
-  
-### App Preview
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/8066ee8e-43ee-40bb-9a65-35b7746aef1c" width="930" title="StepBloc">
-</p>
+ 
 
  # [Cards](https://github.com/mactyagi/Cards) 
 <p align="left"> <a href="https://github.com/mactyagi/Cards"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
@@ -77,21 +60,6 @@ HITFIT is an exercise tracking app developed in SwiftUI, designed to help users 
  <img src="https://github.com/user-attachments/assets/d6db6c66-904c-4ff3-b349-a1bd1e1c48d7" width="930" title="HitFit">
 </p>
 
-# [Smart Remote Control](https://apps.apple.com/in/app/smart-remote-control-tv-cast/id1590869816) 
-<p align="left"> <a href="https://apps.apple.com/in/app/smart-remote-control-tv-cast/id1590869816" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
-</p>
-
-Smart Remote Control is an all-in-one iOS app that allows you to effortlessly control your TV. The app lets you navigate, play, pause, adjust volume, and launch apps directly from your iPhone or iPad. Featuring an intuitive interface and easy device discovery, Smart Remote Control brings the convenience of controlling your entertainment system into one unified experience. Stay in charge of your smart TVs with just a tap!
-
-* UIKit and SwiftUI both
-* Restful API
-* Combine
-* Firebase
-* Socket.IO
-
-<p align = "center">
-<img src="https://github.com/user-attachments/assets/f0b649e9-6218-4742-9b58-89213b80c63b" width="930" title="Draw Kid">
-</p>
 
 
   # [Space Cleaner](https://apps.apple.com/in/app/space-cleaner-all-in-one/id6478117627) 
@@ -116,24 +84,6 @@ As the sole engineer, I successfully developed a Space Cleaner, a full-fledged a
 <img src="https://github.com/user-attachments/assets/c575bcb9-314b-46e0-894c-5003954c5eee" width="930" title="Cleaner">
 </p>
 
- # [Draw Kid](https://apps.apple.com/in/app/draw-kid-drawing-painting/id995619122) 
-<p align="left"> <a href="https://apps.apple.com/in/app/draw-kid-drawing-painting/id995619122" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
-</p>
-
-Draw Kid is a playful drawing app tailored for children, offering a simple and intuitive platform for creative expression. It features a variety of pencils for sketching, drawing, and doodling. Kids can select from different pencil sizes and colors to create their artwork.
-
-* UIKit
-* MVVM
-* Combine
-* PencilKit
-* CoreGraphics
-* CoreData
-* StoreKit
-
-<p align = "center">
-<img src="https://github.com/user-attachments/assets/78097bfe-0f9d-406b-9514-1c3fbc08b399" width="930" title="Draw Kid">
-<img src="https://github.com/user-attachments/assets/600309d2-4257-469a-a9e3-0dbfd7dd8b6f" width="930" title="Draw Kid">
-</p>
 
 
 # [2-Way](https://apps.apple.com/in/app/2way/id862974671) 
@@ -179,31 +129,6 @@ I contributed to the project by working on the app’s architecture, focusing on
 <img src="https://github.com/user-attachments/assets/ed5e2c5e-fd82-4d32-88bd-10656ddbe49d" width="930" title="Vape Free">
 </p>
 
-
-# [Habit Tracker](https://apps.apple.com/in/app/habitbox-minimalist-tracker/id6470763573) 
-<p align="left"> <a href="https://apps.apple.com/in/app/habitbox-minimalist-tracker/id6470763573" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
-</p>
-
- A simple, user-friendly app to help users build and maintain daily habits. 
- Key Features:  - Daily Habit Tracking: Set, track, and complete daily habits with a visual calendar.
- - Goal Setting: Define daily, weekly, or monthly habit goals. - Reminders: Set custom reminders and notifications for habits.
- - Progress Insights: View habit streaks, and progress reports.
- - This app keeps users motivated, organized and focused on achieving their goals.
-
-* SwiftUI
-* MVVM
-* Firbase
-* Core Data
-* Third Party Integration
-* IAPs(In-App Purchases)
-* Subscription and paywalls
-* Revenue Cat
-* Health and Wellness
-* Push Notification
-
-<p align = "center">
-<img src="https://github.com/user-attachments/assets/8db22758-3e9c-4f03-9672-43346627e03c" width="930" title="Habit tracker">
-</p>
 
 # [Fast Site Survey](https://apps.apple.com/jm/app/fast-site-survey/id1510691027) 
 <p align="left"> <a href="https://apps.apple.com/jm/app/fast-site-survey/id1510691027" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="150" ></a>
